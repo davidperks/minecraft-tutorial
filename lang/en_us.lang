@@ -1,0 +1,36 @@
+item.pm.ruby.name=Ruby
+
+//tools
+item.pm.axe_ruby.name=Ruby Axe
+item.pm.sword_ruby.name=Ruby Sword
+item.pm.shovel_ruby.name=Ruby Shovel
+item.pm.hoe_ruby.name=Ruby Hoe
+item.pm.pickaxe_ruby.name=Ruby Pickaxe
+
+//armour
+item.pm.helmet_ruby.name=Ruby Helmet
+item.pm.chestplate_ruby.name=Ruby Chestplate
+item.pm.leggings_ruby.name=Ruby Leggings
+item.pm.boots_ruby.name=Ruby Boots
+
+tile.block_ruby.name=Ruby Block
+tile.ore_overworld_ruby.name=Ruby Ore
+tile.ore_overworld_titanium.name=Titanium Ore
+tile.ore_end_ruby.name=Ruby End Ore
+tile.ore_end_titanium.name=Titanium End Ore
+tile.ore_nether_ruby.name=Ruby Fiery Ore
+tile.ore_nether_titanium.name=Titanium Fiery Ore
+tile.leaves_ruby.name=Ruby Leaves
+tile.log_ruby.name=Ruby Log
+tile.planks_ruby.name=Ruby Planks
+tile.leaves_titanium.name=Titanium Leaves
+tile.log_titanium.name=Titanium Log
+tile.planks_titanium.name=Titanium Planks
+tile.dirt_ruby.name=Ruby Soil
+tile.dirt_titanium.name=Titanium Soil
+tile.door_ruby.name=Ruby Door
+
+generator.ruby=Ruby World
+generator.ruby.info=A very red world
+
+itemGroup.perks_tab=Tom Tab
